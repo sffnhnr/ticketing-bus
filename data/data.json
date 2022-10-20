@@ -1,0 +1,51 @@
+[
+    [
+        "Bus Mawar",
+        "Eksekutif",
+        "Samarinda",
+        "Sangatta",
+        120000,
+        2120000
+    ],
+    [
+        "Bus Mawar",
+        "Reguler",
+        "Samarinda",
+        "Balikpapan",
+        90000,
+        1010000
+    ],
+    [
+        "Bus Mawar",
+        "Ekonomi",
+        "Balikpapan",
+        "Tenggarong",
+        50000,
+        209000
+    ],
+    [
+        "Bus Melati",
+        "Eksekutif",
+        "Balikpapan",
+        "Sangatta",
+        120000,
+        2120000
+    ],
+    [
+        "Bus Melati",
+        "Reguler",
+        "Balikpapan",
+        "Samarinda",
+        90000,
+        1010000
+    ],
+    [
+        "Bus Melati",
+        "Ekonomi",
+        "Tenggarong",
+        "Sangatta",
+        50000,
+        209000
+    ]
+    
+]
